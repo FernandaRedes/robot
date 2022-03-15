@@ -8,6 +8,10 @@ Cadastrando a agenda do mentor
 
     Delete Mentor Bd    QA Automation BD
     Create Mentor Bd
+    
+    #MINHA DÚVIDA ESTÁ AQUI... EU CRIEI ESSE 'SELECT MENTOR BD' PRA PEGAR O ID QUE FOI CRIADO NO CREATE MENTOR BD
+    # Eu preciso do ID do insert no bd para passar ele na rota da agenda 
+    
     ${resp}             Select Mentor Bd 
     ${id}               Convert To String       ${resp['id']}
         
