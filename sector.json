@@ -1,0 +1,179 @@
+{
+  "list_sectors":[
+  {
+    "id": 1,
+    "title": "AdTech"
+  },
+  {
+    "id": 2,
+    "title": "AgTech"
+  },
+  {
+    "id": 3,
+    "title": "Água e Energia"
+  },
+  {
+    "id": 4,
+    "title": "AutoTech"
+  },
+  {
+    "id": 5,
+    "title": "BioTech"
+  },
+  {
+    "id": 6,
+    "title": "ConstruTech"
+  },
+  {
+    "id": 7,
+    "title": "EdTech"
+  },
+  {
+    "id": 8,
+    "title": "Entretenimento"
+  },
+  {
+    "id": 9,
+    "title": "FashionTech"
+  },
+  {
+    "id": 10,
+    "title": "FinTech"
+  },
+  {
+    "id": 11,
+    "title": "FoodTech"
+  },
+  {
+    "id": 12,
+    "title": "Gestão de Negócios"
+  },
+  {
+    "id": 13,
+    "title": "GovTech"
+  },
+  {
+    "id": 14,
+    "title": "HealthTech"
+  },
+  {
+    "id": 15,
+    "title": "HRTech"
+  },
+  {
+    "id": 16,
+    "title": "Indústria 4.0"
+  },
+  {
+    "id": 17,
+    "title": "InsurTech"
+  },
+  {
+    "id": 18,
+    "title": "Kids"
+  },
+  {
+    "id": 19,
+    "title": "LegalTech"
+  },
+  {
+    "id": 20,
+    "title": "Mobilidade"
+  },
+  {
+    "id": 21,
+    "title": "Pet"
+  },
+  {
+    "id": 22,
+    "title": "Rede Social"
+  },
+  {
+    "id": 23,
+    "title": "RegTech"
+  },
+  {
+    "id": 24,
+    "title": "RetailTech"
+  },
+  {
+    "id": 25,
+    "title": "Serviços"
+  },
+  {
+    "id": 26,
+    "title": "SportsTech"
+  },
+  {
+    "id": 27,
+    "title": "Supply Chain"
+  },
+  {
+    "id": 28,
+    "title": "T.I."
+  },
+  {
+    "id": 29,
+    "title": "Turismo"
+  },
+  {
+    "id": 30,
+    "title": "Outros"
+  },
+  {
+    "id": 31,
+    "title": "Negócios Sustentáveis"
+  },
+  {
+    "id": 32,
+    "title": "Real State"
+  },
+  {
+    "id": 33,
+    "title": "Traction"
+  },
+  {
+    "id": 34,
+    "title": "LogTech"
+  },
+  {
+    "id": 35,
+    "title": "Religião"
+  },
+  {
+    "id": 36,
+    "title": "CallTech"
+  },
+  {
+    "id": 37,
+    "title": "Telecom"
+  },
+  {
+    "id": 38,
+    "title": "GameTech"
+  },
+  {
+    "id": 39,
+    "title": "EnergyTech"
+  },
+  {
+    "id": 40,
+    "title": "ESG"
+  },
+  {
+    "id": 41,
+    "title": "GreenTech"
+  },
+  {
+    "id": 42,
+    "title": "PropTech"
+  },
+  {
+    "id": 43,
+    "title": "Ignite"
+  },
+  {
+    "id": 44,
+    "title": "Scale"
+  }
+]}
